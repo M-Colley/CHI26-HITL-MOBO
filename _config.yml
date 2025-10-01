@@ -1,12 +1,12 @@
-repository: a3ws/MuC2025
-title: A3WS – Accessibility in Mobility
-email: "mathias.haimerl@thi.de"
-description: "Accessible Automated Automotive Workshop Series (A3WS) – Accessibility in Mobility."
+repository: m-colley/CHI26-HITL-MOBO
+title: Human-in-the-Loop Bayesian Optimization for ALL:
+email: "m.colley@ucl.ac.uk"
+description: "Human-in-the-Loop Bayesian Optimization for ALL"
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: contrast
 search: true
-baseurl: /MuC2025
+baseurl: /CHI26-HITL-MOBO
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
@@ -25,16 +25,16 @@ plugins:
 
 author:
   bio: >-
-    **A**ccessible **A**utomated **A**utomotive **W**orkshop **S**eries – **A**ccessibility **i**n **M**obility.
-    *In conjunction with [MuC 2025](https://muc2025.mensch-und-computer.de/de/)*
+    HITL MOBO for ALL!
+    *In conjunction with [CHI 2026](https://chi2026.acm.org/)*
 
-announcement: "[Call for Contributions open **NOW**!](https://easychair.org/my/conference?conf=a3wsaim){: .align--left .btn .btn--info .btn--large }"
+announcement: "[Call for Contributions open **NOW**!](https://easychair.org/my/conference){: .align--left .btn .btn--info .btn--large }"
 
 footer:
   links:
     - label: "Imprint"
       icon: "fa fa-fw fa-info"
-      url: "/MuC2025/Imprint/"
+      url: "/CHI26-HITL-MOBO/Imprint/"
 
 defaults:
   # _posts
