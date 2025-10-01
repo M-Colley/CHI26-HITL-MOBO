@@ -5,7 +5,6 @@ classes: wide
 author_profile: true
 ---
 
-# Human in the Loop Bayesian Optimization for ALL, Practical Applications in HCI
 Co located with CHI 2026, Barcelona
 
 Human in the Loop Bayesian Optimization supports sample efficient search in complex HCI design spaces by integrating user feedback into model driven decision making. This 90 minute workshop combines core concepts, a live Python and Unity demonstration, and guided activities to help participants frame their own optimization workflows. The focus is on balancing subjective outcomes such as trust and workload with objective performance, while managing noise, multiple objectives, and fairness across user groups.
