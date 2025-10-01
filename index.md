@@ -1,61 +1,53 @@
 ---
 permalink: /
-title: "A3WS – Accessibility in Mobility"
-#layout: single
+title: "Human in the Loop Bayesian Optimization for ALL"
 classes: wide
 author_profile: true
 ---
-<p> <span style="font-size: 1.5em">Accessible Automated Automotive Workshop Series (A3WS) – Accessibility in Mobility</span><br/>
-In conjunction with Mensch und Computer 2025, August 31 – September 3 | Chemnitz</p>
 
-With modernizing traffic, a rise of automated vehicles (AVs) is expected.
-The potential multidirectional communication needs of AVs require solutions for traffic participants including
-cars and trucks, pedestrians and cyclists, infrastructure and mobile entities.
+# Human in the Loop Bayesian Optimization for ALL, Practical Applications in HCI
+Co located with CHI 2026, Barcelona
 
-While AVs must convey their intentions, they must also interpret and respond to varying communication cues, 
-which may be visual, auditory, or transmitted via connected data. 
-To address this complexity, AVs must leverage advanced technologies, including pattern recognition, data harmonization,
-and potentially artificial intelligence (AI)-driven solutions.
+Human in the Loop Bayesian Optimization supports sample efficient search in complex HCI design spaces by integrating user feedback into model driven decision making. This 90 minute workshop combines core concepts, a live Python and Unity demonstration, and guided activities to help participants frame their own optimization workflows. The focus is on balancing subjective outcomes such as trust and workload with objective performance, while managing noise, multiple objectives, and fairness across user groups.
 
-Although automotive research advances rapidly, people with special needs (PSN) remains significantly underrepresented.
-Given demographic shifts toward an aging population and broader societal goals of equality and accessibility, 
-it is imperative to integrate the needs of these groups when shaping the future of traffic.
-We, therefore, offer an inclusive forum for interdisciplinary exchange among academia, industry, 
-and policymakers on current and emerging topics in this domain.
+## Organizers
+- [Pascal Jansen](https://pascal-jansen.github.io/), Institute of Media Informatics, Ulm University, Germany, pascal.jansen@uni-ulm.de  
+- [Mark Colley](https://m-colley.github.io/), UCL Interaction Centre, University College London, United Kingdom, m.colley@ucl.ac.uk
 
-We will facilitate dialogue, foster collaboration, and potentially inspire new value streams
-by incorporating perspectives from user experience (UX), psychology, product design, and legislative frameworks.
-Ultimately, we will forge new interdisciplinary networks to make communication among all road users more inclusive.
+## Submission
+Short position papers, 2 to 4 pages, ACM single column format. Describe a design problem for optimization, lessons from data driven or adaptive design, or a critical perspective on optimization in HCI. Accepted papers will be published on the workshop website. See [Participate](./Participate) for details.
 
-**Note:** Participants are invited to submit a *position paper*, an abstract for a *lightning talk*, or a suggestion
-for an *interactive activity* before the workshop. See [Participate](./Participate) for more details.
+## Intended audience
+Researchers, PhD students, UX and industry practitioners who want to integrate optimization into design and evaluation. No prior BO experience required, basic Python or C# helps.
 
----
+## Prerequisites
+Laptop with Python 3.13 or later, BoTorch v0.15.1 or later, optional Unity 6.2 for the live link, familiarity with Jupyter recommended.
 
-<div lang="de">
-    <img src="https://flagcdn.com/32x24/de.png" width="32" height="24" alt="Deutsch" />
+## Schedule, 90 minutes
+| Phase | Duration |
+| --- | --- |
+| Phase I, Introduction and motivation | 10 min |
+| Phase II, Live demo, foundations of BO | 20 min |
+| Phase III, Small group use case mapping | 15 min |
+| Break | 5 min |
+| Phase IV, Panel discussion, MOBO | 20 min |
+| Phase V, Pipeline sketching and short reports | 15 min |
+| Phase VI, Wrap up and next steps | 5 min |
 
-    <p>
-    Durch die Verkehrswende ist ein erhöhtes Aufkommen von automatisierten Fahrzeugen (AVs) zu erwarten.
-    Potenziell werden hierfür Lösungen für multidirektionale Kommunikationswege benotigt, um das sichere Zusammenspiel von AVs und anderen Verkehrsteilnehmern, wie PKWs, LKWs, Fußgänger, Radfahrer, Verkehrsinfrastruktur und weiterer Entitäten, zu ermöglichen.
-    </p>
-    
-    <p>
-    AVs nüssen nicht nur ihre Absichten mitteilen, sondern auch verschiedene Signale empfangen und interpretieren können.
-    Die Modalitäten können hierbei visuell, akustisch oder vie Datenverbindung sein.
-    Um dieser Komplexität gerecht zu werden, müssen AVs fortschrittliche Technologien wirsam einsetzen. 
-    Hierzu zählen u.A. Musterekennung, Datenharmonisierung und KI-getriebene Lösungen.
-    </p>
+## Accessibility
+- Request real time captioning through CHI services
+- Distribute tagged PDF slides with alt text and high contrast
+- Provide short captioned demo videos
+- Use low barrier templates and shared cloud notebooks
 
-    <p>
-    Obwohl die Forschung im Automotive-Bereich sehr schnell fortschreitet, ist die Inklusion von Menschen mit Einschränkungen (PSN) im gesamten Bereich unterrepräsentiert. In einer alternden Gesellschaft, befördert durch den demografischen Wandel und Fortschritten im medizinischen Sektor und mit wachsendem Bewusstsein für Inklusion und Barrierefreiheit, müssen die Bedürfnisse dieser Gruppen auch im Automotive-Bereich betrachtet werden.
-    Wir stellen eine inklusive Plattform bereit, mit der wir einen interdisziplinären Austausch aktueller und  zukünftiger Themen ermöglichen wollen, nicht nur für die akademische Welt, sondern im speziellen auch für Industrie und Politik.
-    </p>
-    
-    <p>
-    Damit wollen wir verschiedene Perspektiven auf die speziellen (aber nicht ausschließlichen) Themen User Experience (UX) und Psychologie, Produkt Design und rechtliche Faktoren eröffnen, dadurch Kommunikationskanäle öffnen und potenzielle neue Themenbereiche erschließen.
-    Das zentrale Ziel ist die Erschließung interdisziplinärer Netzwerke und Kollaborationen, um zukünftige Entwicklungen der Fahrzeug-Mensch-Kommunikation (V2H) inklusiver zu gestalten.
-    </p>
-    
-    <p><strong>Anmerkung:</strong> Alle Teilnehmer sind eingeladen ein <em>Position Paper</em>, ein Abstract für einen <em>Lightning Talk</em>, oder einen Vorschlag für eine <em>Interaktive Aktivität</em> bereits vor dem Workshop einzusenden. Details hierzu unter <a href="./Participate">Participate</a>.</p>
-</div>
+## Materials
+- GitHub with annotated Jupyter notebooks, BoTorch examples, Unity link, datasets, evaluation templates
+- Slide decks, quick start guides, troubleshooting notes
+- Curated bibliography
+- Post workshop summary report
+
+## Call for participation
+Designing interactive systems requires balancing competing objectives such as speed and accuracy or efficiency and usability. Human in the Loop BO provides a principled, sample efficient path to explore trade offs with fewer trials. This session provides the foundations, a live pipeline, and guided tasks so you leave with an actionable plan for your project.
+
+## Attendance
+Target, 15 to 25 in person participants.
