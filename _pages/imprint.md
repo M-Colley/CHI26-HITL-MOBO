@@ -8,15 +8,13 @@ classes: wide
 
 ## Content Responsible
 
-Mathias Haimerl \\
-Technische Hochschule Ingolstadt \\
-Human-Computer Interaction Group (HCIG) \\
-Esplanade 10\\
-85049 Ingolstadt\\
-GERMANY
+Mark Colley \\
+UCL \\
+66-72 Gower St\\
+London WC1E 6EA\\
+UK
 
-[https://hcig.thi.de/](https://hcig.thi.de/) \\
-E-Mail: mathias.haimerl@<span style="display:none;">thisisnotpartofthedomain-</span>thi.<span style="display:none;">thisnoteither-</span>de
+E-Mail: m.colley@<span style="display:none;">thisisnotpartofthedomain-</span>ucl.ac.<span style="display:none;">thisnoteither-</span>uk
 
 ## Privacy Statement
 This website does not collect, store or process any personal data. Cookies are not used.

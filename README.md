@@ -1,7 +1,5 @@
-# A3WS @ MuC205
-Website repository for the "A3WS - Accessible Automated Automotive Workshop" to be held at MuC 2025
-
-## Focus topic 2025: Accessibility in Mobility
+# Human-in-the-Loop Bayesian Optimization for ALL
+Website repository for the "Human-in-the-Loop Bayesian Optimization for ALL Workshop" to be held at CHI 2026
 
 Website can be found at:
-https://a3ws.github.io/MuC2025/
+https://m-colley.github.io/CHI26-HITL-MOBO
